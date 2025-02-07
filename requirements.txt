@@ -13,7 +13,7 @@ trimesh==3.9.8
 pytorch_lightning==1.9.5
 nerfacc==0.3.3
 scipy
-pymcubes
+pymcubes==0.1.5
 open3d
 libigl
 scikit-image==0.21.0
